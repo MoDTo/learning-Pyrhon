@@ -1,6 +1,8 @@
-# If and else input
+# If and else with input
 
 age = int(input("Inter your age:"))
+
+#if else
 
 #age = 16
 
